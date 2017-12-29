@@ -1,0 +1,23 @@
+
+
+
+ how to create object in scala ?
+ 
+ 
+ way-1 : using 'object' literal
+ way-2 : using 'class' template  ==> to create many similar objects
+ 
+ ------------------------------------------------------------------------------------------------
+ 
+ imp-notes : 
+ 
+ ==> scala class can have companion-object to hold static fields and methods of many objects
+ 
+     rule:
+     
+        - companion class & object name must be same, and need to be in same .scala file
+ 
+ ==> to make immutable instances & to use custom instances in pattern-matching , then declare class as case-class
+ 
+ ------------------------------------------------------------------------------------------------
+ 

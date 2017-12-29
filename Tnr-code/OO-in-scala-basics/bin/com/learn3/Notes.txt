@@ -1,0 +1,21 @@
+
+
+data-modeling
+------------------
+
+
+ object ==> data
+ 
+ types:
+ 
+      ==> dependent
+      ==> dependency
+      
+      
+      e.g
+      
+      
+      car   : move()    ==> dependent
+      wheel : rotate()  ==> dependency
+      
+ ------------------------------------------------     
